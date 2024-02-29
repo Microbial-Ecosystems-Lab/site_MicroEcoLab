@@ -1,0 +1,24 @@
+*{
+	font-family: 'Roboto Slab';
+  	font-style: normal;
+}
+
+.fullwidth-block{
+	font-family: 'Roboto Slab';
+}
+
+.navbar{
+	color: white;
+	min-height: 120px;
+}
+
+.widget{
+	color: white;
+}
+
+#headerwrap{
+	background-image: url("images/slide3.png");
+	min-height: 400px;
+	background-size: 100%;
+	min-height: 300px;
+}
